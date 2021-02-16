@@ -10,11 +10,13 @@ class App extends Component {
           <img src={logo} className="App-logo" alt="logo" />
           <h2>Welcome to React</h2>
         </div>
-        <p className="App-intro">
-          To get started, edit <code>src/App.js</code> and save to reload!
-        </p>
+	
 	<p className="App-note">
-	    Testing AWS Amplify CI/CD Web App for TCNI ***
+	    Testing AWS Amplify CI/CD Web App for TCNI
+	</p>
+	<p>************************************************</p>
+	<p className="App-intro">
+	  To get started, edit <code>src/App.js</code> and save to reload
 	</p>
       </div>
     );
